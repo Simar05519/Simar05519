@@ -22,7 +22,7 @@ I'm Simarpreet Kaur. A Data Science and Research Enthusiast :smile:
 
 - 👯 I’m looking to collaborate on Machine learning projects
 
-- 💬 Talk to me about **Python,Numpy,Pandas,Seaborn,Matplotlib,Machine Learning Algorithms,Freelancing Opportunites, Open Source,pytorch,opencv**
+- 💬 Talk to me about **Python,Numpy,Pandas,Seaborn,Matplotlib,Machine Learning Algorithms,opencv,Natural Language Processing,Freelancing Opportunites, Open Source,pytorch**
 - 📫 How to reach me simararora947@gmail.com
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
